@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <string name="please_connect">Please connect to internet.</string>
+    <string name="no_internet">No internet available</string>
+    <string name="connect">Connect</string>
+    <string name="no_data">No data!</string>
+
+    <string name="placeholder_title">Title</string>
+
+    <string name="img_content_des">Image</string>
+
+    <string name="release_date">Release date:</string>
+    <string name="voted">Voted:</string>
+    <string name="popular">Popular Movies</string>
+    <string name="tv_shows">Popular TV Shows</string>
+    <string name="trending">Trending Movies</string>
+
+    <string name="wishlist">Wishlist</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+
+    <string name="no_fav">No favorite movies found!</string>
+
+</resources>
